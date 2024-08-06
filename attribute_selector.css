@@ -1,0 +1,17 @@
+h2[title="baslik1"]{
+    color: blue;
+    font-size: 30px;
+}
+p[title="p1"]{
+    color: brown;
+}
+input[type="text"]{
+    background-color: black;
+text-emphasis-color: white;
+}
+input[type="button"]{
+    background-color: brown;
+}
+a[target="_blank"]{
+    color: black;
+}
